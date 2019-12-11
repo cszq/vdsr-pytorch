@@ -1,3 +1,4 @@
+1
 Namespace(batchSize=128, clip=0.4, cuda=False, gpus='0', lr=0.1, momentum=0.9, nEpochs=50, pretrained='', resume='', start_epoch=1, step=10, threads=1, weight_decay=0.0001)
 Random Seed:  8423
 ===> Loading datasets
